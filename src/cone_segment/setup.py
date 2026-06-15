@@ -24,8 +24,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'cone_detector_node = cone_segment.cone_detector_node:main',
-            'test_sub           = cone_segment.test_sub:main',
+            'cone_detector_node    = cone_segment.cone_detector_node:main',
+            'speed_controller_node = cone_segment.speed_controller_node:main',
+            'test_sub              = cone_segment.test_sub:main',
         ],
     },
 )
