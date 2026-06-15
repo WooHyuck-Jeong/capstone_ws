@@ -1,0 +1,47 @@
+[0.334s] Invoking command in '/home/woohyuck/Documents/Lecture_final/capstone_ws/src/cone_segment': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cone_segment build --build-base /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build install --record /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/install.log --single-version-externally-managed install_data
+[0.444s] running egg_info
+[0.444s] creating ../../build/cone_segment/cone_segment.egg-info
+[0.451s] writing ../../build/cone_segment/cone_segment.egg-info/PKG-INFO
+[0.451s] writing dependency_links to ../../build/cone_segment/cone_segment.egg-info/dependency_links.txt
+[0.451s] writing entry points to ../../build/cone_segment/cone_segment.egg-info/entry_points.txt
+[0.451s] writing requirements to ../../build/cone_segment/cone_segment.egg-info/requires.txt
+[0.451s] writing top-level names to ../../build/cone_segment/cone_segment.egg-info/top_level.txt
+[0.451s] writing manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+[0.465s] reading manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+[0.465s] writing manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+[0.466s] running build
+[0.466s] running build_py
+[0.466s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build
+[0.466s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib
+[0.466s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+[0.466s] copying cone_segment/speed_controller_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+[0.466s] copying cone_segment/__init__.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+[0.466s] copying cone_segment/test_sub.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+[0.466s] copying cone_segment/cone_detector_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+[0.466s] running install
+[0.468s] running install_lib
+[0.476s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+[0.476s] copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/speed_controller_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+[0.476s] copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/__init__.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+[0.476s] copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/test_sub.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+[0.476s] copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/cone_detector_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+[0.476s] byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/speed_controller_node.py to speed_controller_node.cpython-312.pyc
+[0.477s] byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/__init__.py to __init__.cpython-312.pyc
+[0.477s] byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/test_sub.py to test_sub.cpython-312.pyc
+[0.478s] byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/cone_detector_node.py to cone_detector_node.cpython-312.pyc
+[0.481s] running install_data
+[0.481s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index
+[0.481s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index
+[0.481s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index/packages
+[0.481s] copying resource/cone_segment -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index/packages
+[0.481s] copying package.xml -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment
+[0.481s] creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment/launch
+[0.481s] copying launch/cone_detector_launch.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment/launch
+[0.481s] running install_egg_info
+[0.489s] Copying ../../build/cone_segment/cone_segment.egg-info to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment-0.0.1-py3.12.egg-info
+[0.489s] running install_scripts
+[0.542s] Installing cone_detector_node script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+[0.542s] Installing speed_controller_node script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+[0.542s] Installing test_sub script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+[0.542s] writing list of installed files to '/home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/install.log'
+[0.554s] Invoked command in '/home/woohyuck/Documents/Lecture_final/capstone_ws/src/cone_segment' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cone_segment build --build-base /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build install --record /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/install.log --single-version-externally-managed install_data

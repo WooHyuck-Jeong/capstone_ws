@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/cone_segment/cone_segment.egg-info
+writing ../../build/cone_segment/cone_segment.egg-info/PKG-INFO
+writing dependency_links to ../../build/cone_segment/cone_segment.egg-info/dependency_links.txt
+writing entry points to ../../build/cone_segment/cone_segment.egg-info/entry_points.txt
+writing requirements to ../../build/cone_segment/cone_segment.egg-info/requires.txt
+writing top-level names to ../../build/cone_segment/cone_segment.egg-info/top_level.txt
+writing manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+reading manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+writing manifest file '../../build/cone_segment/cone_segment.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+copying cone_segment/speed_controller_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+copying cone_segment/__init__.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+copying cone_segment/test_sub.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+copying cone_segment/cone_detector_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment
+running install
+running install_lib
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/speed_controller_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/__init__.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/test_sub.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+copying /home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/build/lib/cone_segment/cone_detector_node.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment
+byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/speed_controller_node.py to speed_controller_node.cpython-312.pyc
+byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/test_sub.py to test_sub.cpython-312.pyc
+byte-compiling /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment/cone_detector_node.py to cone_detector_node.cpython-312.pyc
+running install_data
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index/packages
+copying resource/cone_segment -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/ament_index/resource_index/packages
+copying package.xml -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment
+creating /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment/launch
+copying launch/cone_detector_launch.py -> /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/share/cone_segment/launch
+running install_egg_info
+Copying ../../build/cone_segment/cone_segment.egg-info to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/python3.12/site-packages/cone_segment-0.0.1-py3.12.egg-info
+running install_scripts
+Installing cone_detector_node script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+Installing speed_controller_node script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+Installing test_sub script to /home/woohyuck/Documents/Lecture_final/capstone_ws/install/cone_segment/lib/cone_segment
+writing list of installed files to '/home/woohyuck/Documents/Lecture_final/capstone_ws/build/cone_segment/install.log'

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: cone-segment
+Version: 0.0.1
+Summary: YOLO Segmentation 기반 꼬깔 검출 ROS2 패키지
+Maintainer: user
+Maintainer-email: user@example.com
+License: MIT
